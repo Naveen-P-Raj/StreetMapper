@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+runs/
+*.pt
+*.onnx
+*.tflite
+*.mp4
+*.avi
+data/images/
+data/labels/
+results/*.csv
